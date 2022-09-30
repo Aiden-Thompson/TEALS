@@ -12,10 +12,20 @@ Three things that we will talk about here are:
 ### Third Level Header
 
 Some languages that we can discuss for programming
+-Compiled (performance) programming
 - C/C++
-- Fortran
-- *Python*
+- Juda
+- Fortan
+- Cuda
+- C#
+-Interpreted (scripting) programming
+- Lua
+- Python
 - Julia
+-Database Languages
+- HTML
+- CSS
+- JavaScript
 
 #### Level 4
 This is for a class at [Towers HS](https://www.towershs.dekalb.k12.ga.us/).
