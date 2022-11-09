@@ -1,5 +1,5 @@
 # TEALS
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aiden-Thompson/TEALS/HEAD)
 This is my repo for **Introduction to Software Technologies**!
 
 ## Second Level Header
